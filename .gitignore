@@ -2,7 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
+# bash 
+*.sh
+# Debug
+Debug_Proxy.py
 # C extensions
 *.so
 
